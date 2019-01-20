@@ -1,5 +1,5 @@
 /* ===================== TWO COLUMN SERVER LIST ========================= */
-div[class*="guildsWrapper-"]{width: 125px !important;}
+div[class*="guildsWrapper-"]{width: 126px !important;}
 div[class*="guildsWrapper-"] div[class*="scrollerWrap-"] {width: 150px;}
 div[class*="guildsWrapper-"] div[class*="guilds-"] {
     display: flex;
