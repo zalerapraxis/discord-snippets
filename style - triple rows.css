@@ -1,0 +1,4 @@
+/* put your custom css here. */
+/* ===================== TWO COLUMN SERVER LIST ========================= */
+div[class*="guildsWrapper-"]{width: 184px !important;}
+div[class*="guildsWrapper-"] div[class*="scrollerWrap-"] {width: 200px;}
